@@ -19,11 +19,48 @@ I have **8+ years of experience** in web development, with a focus on building p
 
 Some of the projects include:
 
-* [<img src="https://aide.ekopedia.id/favicon.ico" alt="AideEkopedia" width="16"> **AideEkopedia**](https://aide.ekopedia.id/) — AI-powered assistant and experimentation with LLM applications
-* [<img src="https://expir.ekopedia.id/favicon.ico" alt="ExpirEkopedia" width="12"> **ExpirEkopedia**](https://expir.ekopedia.id/) — a lightweight PWA for tracking expiration dates
-* [<img src="https://movi.ekopedia.id/favicon.ico" alt="MoviEkopedia" width="16"> **MoviEkopedia**](https://movi.ekopedia.id/) — movie-related project
-* [<img src="https://alexandria.ekopedia.id/favicon.ico" alt="Alexandria" width="14"> **Alexandria**](https://alexandria.ekopedia.id/) — an independent fantasy novel and its supporting web platform
-* **CachEkopedia** — CDN and caching experiments
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://movi.ekopedia.id/">
+        <img src="https://cdn.ekopedia.id/images/project/moviekopedia.webp" width="100%">
+        <br>
+        <img src="https://movi.ekopedia.id/favicon.ico" alt="MoviEkopedia" width="16"> <strong>MoviEkopedia</strong>
+        <br>
+        Movie catalogue with OMDB API
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aide.ekopedia.id/">
+        <img src="https://cdn.ekopedia.id/images/project/aideekopedia.webp" width="100%">
+        <br>
+        <img src="https://aide.ekopedia.id/favicon.ico" alt="AideEkopedia" width="16"> <strong>AideEkopedia</strong>
+        <br>
+        AI-powered assistant and experimentation with LLM applications
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://expir.ekopedia.id/">
+        <img src="https://cdn.ekopedia.id/images/project/expirekopedia.webp" width="100%">
+        <br>
+        <img src="https://expir.ekopedia.id/favicon.ico" alt="ExpirEkopedia" width="16"> <strong>ExpirEkopedia</strong>
+        <br>
+        A lightweight PWA for tracking expiration dates
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://alexandria.ekopedia.id/">
+        <img src="https://cdn.ekopedia.id/images/project/alexandria.webp" width="100%">
+        <br>
+        <img src="https://alexandria.ekopedia.id/favicon.ico" alt="Alexandria" width="16"> <strong>The Legend of Alexandria</strong>
+        <br>
+        An independent fantasy novel and its supporting web platform
+      </a>
+    </td>
+  </tr>
+</table>
 
 I'm also interested in turning ideas into small, useful products rather than simply building software for the sake of building it.
 
